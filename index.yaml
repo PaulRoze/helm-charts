@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginx-hello-world:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-05-08T17:37:13.592365+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 440088b795bd85eb676e8459a4465044c95055c8003ee8cfe079203013cfe71b
+    name: nginx-hello-world
+    type: application
+    urls:
+    - https://paulroze.github.io/nginx-hello-world/nginx-hello-world-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-05-08T17:37:13.591865+03:00"
